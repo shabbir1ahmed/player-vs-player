@@ -1,0 +1,17 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+.container {
+  background: rgb(235, 182, 182);
+  height: 500px;
+  width: 50%;
+  left: 0px;
+  right: 0px;
+  top: 0px;
+  bottom: 0px;
+  margin: auto;
+  text-align: center;
+  padding-top: 5%;
+}
